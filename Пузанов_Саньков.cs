@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.Write("Введите число a: ");
-        int a = Convert.ToInt32(Console.ReadLine());
+        int a = Convert.ToInt32(Console.ReadLine()); //123//
         
         Console.Write("Введите число b: ");
         int b = Convert.ToInt32(Console.ReadLine());
